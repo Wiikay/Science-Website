@@ -1,1 +1,1 @@
-Sitemap: http://idkwhattoputherefr.com/sitemap.xml
+Sitemap: https://wiikay.github.io/sitemap.xml
