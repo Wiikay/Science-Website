@@ -1,1 +1,1 @@
-Sitemap: http://rockformations.info/sitemap.xml
+Sitemap: https://rockformations.info/sitemap.xml
