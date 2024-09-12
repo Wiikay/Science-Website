@@ -1,1 +1,1 @@
-Sitemap: https://wiikay.github.io/sitemap.xml
+Sitemap: http://rockformations.info/sitemap.xml
